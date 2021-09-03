@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @0xmorgi
+- 👀 I’m interested in blockchain technologies
+- 🌱 I’m currently learning Solidity and cryptographic basic related to blockchain
+- 💞️ I’m looking to collaborate on blockchain related projects
+- 📫 How to reach me: linkedin - https://www.linkedin.com/in/dominik-szymaniak-01b9b898/
